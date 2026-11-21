@@ -1,0 +1,256 @@
+Patient_ID,Age,Gender,City,Department,Admission_Type,Num_Comorbidities,Systolic_BP,Waiting_Time_Mins,Admission_Date,Length_of_Stay_Days
+P1050,68,Male,Ghaziabad,Surgery,Planned,2,134,40,2025-05-09,7
+P1147,33,Male,Pune,Orthopedics,Planned,2,117,39,2025-01-24,6
+P1205,61,Female,Pune,Orthopedics,Planned,1,117,75,2025-10-17,8
+P1187,48,Female,Pune,Surgery,Planned,0,116,15,2026-06-13,2
+P1190,42,Male,Delhi,General Medicine,Referral,2,135,58,2026-11-08,6
+P1105,9,Male,Lucknow,General Medicine,Referral,0,122,79,2026-02-04,1
+P1012,68,Male,mumbai,Cardiology,Referral,0,139,77,2025-12-08,4
+P1246,35,Male,Pune,Orthopedics,Emergency,1,147,45,2026-03-16,8
+P1074,27,Female,Ghaziabad,Orthopedics,Planned,2,144,126,2026-01-07,3
+P1102,48,Male,Mumbai,Cardiology,Emergency,0,112,62,2024-12-30,2
+P1197,36,Female,Ghaziabad,General Medicine,Emergency,3,143,18,2025-07-12,7
+P1134,41,Male,Delhi,Cardiology,Emergency,0,140,67,2025-03-13,3
+P1218,-34,Male,Delhi,General Medicine,Emergency,1,128,19,2025-01-13,5
+P1178,73,Male,Pune,General Medicine,Emergency,4,123,52,2026-11-17,10
+P1070,47,Female,Delhi,Cardiology,Planned,4,135,82,2026-07-25,7
+P1201,37,Male,Delhi,Pediatrics,Planned,2,96,30,2025-12-30,7
+P1230,44,Male,Pune,Orthopedics,,2,114,67,2025-04-11,6
+P1044,8,Female,Mumbai,General Medicine,Emergency,1,139,78,2025-04-08,2
+P1124,43,Female,Delhi,Orthopedics,Emergency,1,123,184,2024-11-29,6
+P1083,30,Female,Pune,Orthopedics,Emergency,2,148,37,2025-04-25,5
+P1130,19,Male,Lucknow,General Medicine,Emergency,4,108,56,2025-11-13,6
+P1157,16,Male,Ghaziabad,Orthopedics,Planned,0,110,46,2025-08-03,4
+P1067,15,Female,Delhi,Orthopedics,,2,139,46,2026-02-06,5
+P1226,68,Male,Pune,General Medicine,Planned,2,153,87,2025-08-09,7
+P1123,46,Female,Ghaziabad,Pediatrics,Planned,1,134,68,2025-06-14,5
+P1094,27,Female,Mumbai,General Medicine,Referral,1,,30,2026-06-22,2
+P1234,8,Female,Lucknow,Pediatrics,Emergency,1,120,48,2025-09-06,5
+P1153,63,Male,Mumbai,Surgery,Emergency,2,134,72,2025-05-14,11
+P1244,38,Female,Delhi,General Medicine,Emergency,1,144,81,2025-03-24,5
+P1025,46,Female,Delhi,Orthopedics,Planned,1,113,108,2026-02-12,5
+P1069,47,Female,Delhi,General Medicine,Emergency,4,146,50,2025-03-01,8
+P1103,63,Female,Lucknow,General Medicine,Planned,1,137,110,2025-10-08,5
+P1208,75,Female,Pune,Surgery,Emergency,1,139,56,2026-03-01,6
+P1002,55,Female,Lucknow,Cardiology,Emergency,0,151,84,2026-01-06,5
+P1026,15,Male,Lucknow,Orthopedics,Emergency,3,125,47,2025-06-11,7
+P1034,46,Male,Ghaziabad,Pediatrics,Emergency,1,119,84,2025-11-13,3
+P1007,43,Female,Ghaziabad,General Medicine,Planned,2,128,52,2025-09-13,5
+P1243,9,Male,Delhi,Cardiology,Emergency,0,116,46,2026-01-22,3
+P1142,48,Male,Pune,General Medicine,Emergency,0,127,90,2025-03-09,4
+P1032,92,Female,Delhi,General Medicine,Emergency,4,148,36,2026-01-15,11
+P1217,44,Female,Pune,Cardiology,Planned,2,136,46,2026-06-17,9
+P1086,54,Female,Lucknow,Pediatrics,Referral,2,143,37,2026-06-20,3
+P1014,35,Female,Pune,General Medicine,Emergency,2,162,18,2026-03-18,4
+P1078,30,Female,Delhi,Surgery,Planned,2,96,113,2025-07-26,6
+P1039,30,Male,Pune,Cardiology,Planned,1,108,69,2025-11-17,2
+P1059,65,Male,Lucknow,General Medicine,Planned,1,125,31,2025-05-19,4
+P1164,33,Female,Delhi,Orthopedics,Emergency,3,96,87,2026-07-24,6
+P1182,68,Male,Delhi,Cardiology,Emergency,2,142,95,2026-10-26,8
+P1101,45,Male,Delhi,Cardiology,Emergency,3,134,47,2026-03-08,9
+P1174,44,Male,Ghaziabad,Cardiology,Emergency,0,104,52,2026-04-16,5
+P1195,89,Other,Mumbai,Orthopedics,Planned,2,134,68,2025-10-19,12
+P1060,76,Female,Mumbai,General Medicine,Referral,5,152,68,2026-01-02,8
+P1020,21,Female,Lucknow,Cardiology,Emergency,2,143,95,2024-12-10,5
+P1119,51,Male,Lucknow,General Medicine,Emergency,1,117,55,2024-11-20,6
+P1162,,Female,Pune,General Medicine,Planned,2,147,11,2026-01-13,5
+P1245,57,Female,Ghaziabad,General Medicine,Planned,3,131,132,2026-06-28,5
+P1183,50,Male, DELHI,Surgery,Planned,2,135,37,2026-06-30,5
+P1184,89,Female,Delhi,Pediatrics,Emergency,3,,88,2026-07-23,10
+P1144,56,Female,Ghaziabad,General Medicine,Planned,1,114,77,2025-08-10,7
+P1211,53,Male,Lucknow,Cardiology,Planned,0,145,91,2026-08-16,3
+P1203,66,Female,Mumbai,Pediatrics,Referral,2,143,36,2025-08-13,9
+P1207,59,Female,Mumbai,Pediatrics,Emergency,1,136,93,2024-12-23,6
+P1046,60,Female,Ghaziabad,Orthopedics,Planned,2,136,59,2024-12-06,7
+P1213,57,Female,Mumbai,Cardiology,Planned,2,137,89,2024-12-23,6
+P1177,4,Female,Lucknow,General Medicine,Planned,0,107,16,2026-09-03,1
+P1082,28,Female,Lucknow,Orthopedics,Emergency,0,122,43,2025-11-16,7
+P1079,59,Male,Delhi,General Medicine,Planned,4,125,23,2026-01-08,7
+P1052,29,Male,Mumbai,Orthopedics,Emergency,1,111,52,2024-12-31,3
+P1100,38,Female,Ghaziabad,General Medicine,Planned,2,114,100,2026-11-08,3
+P1115,26,Male,Lucknow,Cardiology,Emergency,1,136,117,2024-12-12,8
+P1091,54,Male,Ghaziabad,General Medicine,Planned,2,134,81,2026-02-10,4
+P1225,55,Male,Delhi,General Medicine,Referral,1,120,53,2025-10-26,4
+P1026,15,Male,Lucknow,Orthopedics,Emergency,3,125,47,2025-06-11,7
+P1129,38,Female,Delhi,General Medicine,Referral,3,123,88,2026-11-06,9
+P1191,59,Male,Ghaziabad,Surgery,Emergency,4,119,84,2026-10-04,11
+P1165,59,Female,Ghaziabad,Cardiology,Planned,3,131,138,2025-09-11,6
+P1058,21,Female,Delhi,General Medicine,Planned,1,126,43,2026-04-30,2
+P1028,23,Female,Mumbai,Cardiology,Emergency,3,134,41,2026-09-30,9
+P1138,9,Male,Mumbai,Surgery,Planned,0,140,28,2026-03-19,1
+P1036,64,Male,Lucknow,Cardiology,Planned,2,137,64,2025-12-22,6
+P1122,,Male,Delhi,General Medicine,Planned,0,118,70,2024-12-29,1
+P1030,28,Female,Lucknow,General Medicine,Emergency,3,123,161,2026-01-15,6
+P1196,68,Male,Delhi,Cardiology,Referral,1,128,86,2026-03-13,6
+P1154,64,Male,Delhi,Surgery,Emergency,1,90,83,2025-08-31,2
+P1015,44,Female,Delhi,Orthopedics,Referral,1,121,36,2025-02-05,4
+P1169,49,Female,Mumbai,Orthopedics,Planned,2,145,,2025-07-08,7
+P1011,62,Male,Mumbai,Pediatrics,Planned,2,115,56,2026-04-04,8
+P1220,43,Male,Mumbai,Orthopedics,Planned,2,129,29,2026-04-10,8
+P1088,88,Female,Delhi,Surgery,Referral,4,118,186,2026-02-23,9
+P1019,53,Female,Pune,Cardiology,Emergency,2,142,34,2025-03-15,8
+P1194,48,Male,Lucknow,General Medicine,Emergency,1,115,92,2025-06-19,3
+P1005,67,Male,Lucknow,General Medicine,Emergency,3,132,71,2025-10-10,10
+P1092,63,Male,Lucknow,General Medicine,Emergency,3,140,62,2026-04-01,9
+P1098,40,Male,Mumbai,General Medicine,Planned,3,128,108,2025-02-22,4
+P1128,31,Female,Delhi,Orthopedics,Emergency,1,125,58,2026-02-08,5
+P1232,88,Male,Mumbai,Cardiology,Emergency,1,118,50,2025-09-02,9
+P1137,23,Female,Lucknow,Pediatrics,Emergency,0,118,32,2025-08-03,1
+P1143,51,Male,Pune,General Medicine,Emergency,3,102,74,2026-06-05,4
+P1076,14,Male,Delhi,Cardiology,Emergency,0,125,25,2025-04-14,3
+P1027,75,Male,Lucknow,Surgery,Emergency,2,133,,2024-11-19,11
+P1061,72,Female,Delhi,General Medicine,Emergency,2,139,97,2026-07-07,6
+P1161,,Male,Mumbai,Surgery,Emergency,1,128,14,2025-09-26,7
+P1132,19,Female,Delhi,Cardiology,Referral,3,132,25,2025-09-08,5
+P1212,43,Male,Lucknow  ,General Medicine,Emergency,2,111,5,2026-02-16,7
+P1106,62,Male,Lucknow,Surgery,Planned,3,138,98,2025-08-17,6
+P1188,56,Female,Lucknow,Surgery,Planned,1,120,,2026-07-10,7
+P1042,40,Female,Mumbai,Surgery,Emergency,1,112,61,2026-08-27,3
+P1116,37,Female,Ghaziabad,General Medicine,Planned,1,,24,2025-07-13,5
+P1181,63,Female,Ghaziabad,General Medicine,Referral,1,126,236,2026-04-05,3
+P1121,39,Male,Delhi,General Medicine,Emergency,1,120,37,2025-09-09,2
+P1118,56,Female,Mumbai,Cardiology,Referral,3,144,76,2026-09-17,8
+P1193,36,Male,Pune,Orthopedics,Emergency,2,136,41,2025-11-12,5
+P1053,53,Female,Pune,Pediatrics,Emergency,1,,20,2025-10-18,6
+P1145,16,Male,Lucknow,Cardiology,Referral,0,126,47,2026-02-23,1
+P1133,36,Female,Ghaziabad,General Medicine,,1,101,77,2026-07-16,3
+P1093,214,Male,Ghaziabad,Surgery,Referral,1,140,90,2025-10-06,3
+P1045,38,Male,Ghaziabad,Pediatrics,Referral,2,130,124,2025-09-07,6
+P1229,59,Female,Lucknow,General Medicine,Emergency,2,141,96,2025-09-14,8
+P1111,37,Female,Delhi,Cardiology,Emergency,2,118,24,2024-12-11,5
+P1120,47,Female,Delhi,Cardiology,Emergency,2,146,54,2026-01-25,9
+P1127,73,Female,Mumbai,Surgery,Emergency,2,124,12,2026-03-12,11
+P1224,11,Male,Delhi,General Medicine,Emergency,1,124,146,2025-03-06,3
+P1009,53,Female,Delhi,General Medicine,Emergency,1,117,49,2026-01-14,4
+P1250,60,Male,Delhi,General Medicine,Planned,4,134,41,2026-08-28,7
+P1108,51,Male,Mumbai,General Medicine,Planned,4,117,78,2025-04-17,7
+P1135,69,Male,Lucknow,Cardiology,Emergency,1,114,63,2025-09-22,6
+P1139,54,Male,Lucknow,Pediatrics,Referral,1,114,50,2025-03-30,1
+P1156,66,Female,GHAZIABAD,Orthopedics,Planned,4,137,35,2026-07-09,9
+P1066,36,Male,Ghaziabad,Cardiology,Planned,2,151,91,2026-03-12,5
+P1006,55,Male,Pune,Cardiology,Planned,3,119,69,2026-03-31,9
+P1126,47,Male,Delhi,Cardiology,Emergency,0,117,65,2024-12-01,3
+P1099,40,Female,Delhi,General Medicine,Referral,1,144,50,2025-05-30,2
+P1040,35,Male,Delhi,General Medicine,Emergency,2,142,117,2025-08-08,3
+P1141,26,Female,Delhi,Surgery,Emergency,0,135,15,2026-07-22,3
+P1219,31,Female,Lucknow,Cardiology,Emergency,1,141,94,2025-10-21,2
+P1021,35,Male,Pune,Cardiology,Emergency,2,104,88,2026-10-26,4
+P1057,25,Female,Delhi,General Medicine,Referral,1,121,69,2025-08-14,1
+P1146,62,Female,Ghaziabad,Orthopedics,Referral,2,121,131,2026-07-21,8
+P1048,46,Male,Mumbai,Orthopedics,Referral,2,108,90,2025-11-13,5
+P1063,45,Male,Pune,Surgery,Emergency,1,152,49,2025-07-11,5
+P1095,79,Female,Lucknow,Orthopedics,Emergency,2,145,35,2025-12-03,8
+P1104,43,Male,Lucknow,General Medicine,Emergency,0,112,58,2025-06-02,2
+P1214,53,Female,Delhi,Pediatrics,Planned,2,127,47,2026-04-27,6
+P1038,47,Female,Mumbai,General Medicine,Referral,2,154,73,2025-04-06,6
+P1166,28,Female,Ghaziabad,Orthopedics,Emergency,1,137,55,2025-03-10,5
+P1240,60,Female,Ghaziabad,Pediatrics,Planned,2,158,99,2026-04-14,8
+P1215,51,Female,Ghaziabad,Pediatrics,Referral,3,129,49,2026-11-16,3
+P1041,56,Male,Pune,Cardiology,Emergency,0,150,21,2026-01-14,4
+P1192,56,Male,Delhi,Surgery,Referral,3,137,65,2026-05-25,7
+P1065,6,Male,Lucknow,Cardiology,Emergency,1,118,51,2024-12-03,3
+P1136,64,Male,Delhi,Orthopedics,Planned,3,134,37,2025-11-16,10
+P1125,75,Male,Lucknow,Orthopedics,Emergency,1,142,10,2025-09-07,9
+P1064,80,Female,Delhi,Pediatrics,Planned,2,123,74,2025-01-24,8
+P1080,36,Male,Delhi,Cardiology,Emergency,1,124,28,2025-07-07,4
+P1049,52,Male,Delhi,General Medicine,Emergency,2,134,92,2025-03-22,8
+P1001,51,Male,Delhi,Orthopedics,Planned,1,118,45,2026-11-02,4
+P1175,78,Female,Mumbai,General Medicine,Emergency,3,124,76,2025-09-04,9
+P1148,52,Male,Mumbai,Cardiology,Referral,2,124,23,2025-09-15,8
+P1209,39,Female,Pune,Orthopedics,Emergency,1,101,42,2026-01-04,7
+P1179,31,Female,Lucknow,Cardiology,Planned,3,116,39,2025-09-15,6
+P1158,61,Female,Lucknow,Orthopedics,Referral,2,129,62,2026-11-04,10
+P1113,23,Male,Lucknow,Cardiology,Planned,0,130,46,2026-09-26,1
+P1033,20,Female,Ghaziabad,Orthopedics,Emergency,2,129,36,2025-09-02,6
+P1200,50,Female,Pune,Orthopedics,Referral,1,132,55,2026-10-09,6
+P1160,53,Male,Pune,Cardiology,Emergency,4,114,94,2025-04-19,11
+P1206,59,Male,Mumbai,Pediatrics,Referral,2,112,60,2026-05-10,4
+P1003,49,Female,Delhi,Surgery,Planned,2,115,5,2026-06-02,6
+P1247,73,Female,Ghaziabad,Cardiology,Emergency,3,122,109,2025-12-22,9
+P1173,64,Female,Delhi,General Medicine,Emergency,5,106,52,2025-02-02,12
+P1109,55,Female,Mumbai,Orthopedics,Planned,2,115,98,2025-06-05,9
+P1054,32,Female,Mumbai,Pediatrics,Emergency,0,127,91,2025-05-03,1
+P1018,58,Female,Mumbai,General Medicine,Emergency,1,122,22,2025-12-11,4
+P1140,27,Female,Mumbai,General Medicine,Emergency,2,107,89,2026-01-20,5
+P1073,61,Male, Delhi,Surgery,Emergency,2,151,31,2026-09-26,5
+P1242,27,Female,Ghaziabad,Cardiology,Emergency,0,159,41,2025-05-27,2
+P1198,43,Female,Lucknow,Orthopedics,Referral,1,126,131,2026-04-25,7
+P1204,42,Male,Delhi,Orthopedics,Emergency,2,116,91,2024-12-29,6
+P1075,40,Female,Mumbai,General Medicine,Planned,0,163,41,2024-12-22,4
+P1227,58,Female,Delhi,Cardiology,Emergency,4,108,66,2025-04-17,8
+P1077,25,Male,Delhi,Cardiology,Planned,2,,77,2025-09-24,5
+P1151,53,Female,Ghaziabad,General Medicine,Planned,0,121,34,2026-08-04,4
+P1153,63,Male,Mumbai,Surgery,Emergency,2,134,72,2025-05-14,11
+P1062,56,Male,Delhi,Surgery,Emergency,0,146,12,2025-07-31,7
+P1199,25,Female,Pune,Cardiology,Emergency,1,129,62,2026-02-28,5
+P1084,38,Male,Ghaziabad,General Medicine,Emergency,2,102,25,2024-12-31,8
+P1155,30,Female,Lucknow,Orthopedics,Emergency,0,115,18,2025-09-10,3
+P1239,64,Male,Lucknow,Orthopedics,Emergency,0,132,112,2025-05-07,7
+P1233,27,Male,Lucknow,Orthopedics,Emergency,3,108,14,2026-05-31,6
+P1081,24,Male,Ghaziabad,General Medicine,Emergency,3,121,129,2025-08-10,10
+P1163,55,Male,Mumbai,Cardiology,Emergency,3,114,62,2026-04-14,7
+P1150,44,Male,Ghaziabad,Surgery,Emergency,2,125,54,2026-05-26,7
+P1008,53,Male,Delhi,General Medicine,Referral,0,103,60,2025-03-14,3
+P1249,39,Female,Ghaziabad,Pediatrics,Emergency,2,146,130,2025-07-30,4
+P1107,38,Female,Delhi,Orthopedics,Emergency,0,126,109,2025-12-05,5
+P1236,30,Male,Lucknow,Pediatrics,Planned,2,136,79,2026-08-03,3
+P1089,24,Male,Ghaziabad,Cardiology,Emergency,3,139,33,2026-02-16,4
+P1097,37,Female,ghaziabad,General Medicine,Planned,2,116,34,2025-10-08,4
+P1117,22,Female,Ghaziabad,Cardiology,Planned,3,148,70,2025-04-24,5
+P1202,40,Female,Lucknow,Cardiology,Planned,4,131,61,2026-08-20,8
+P1085,50,Male,Mumbai,General Medicine,Emergency,1,103,30,2025-01-30,5
+P1222,53,Female,Mumbai,Orthopedics,Emergency,1,103,152,2026-09-11,4
+P1248,13,Female,Lucknow,General Medicine,Planned,0,123,67,2026-11-11,1
+P1056,47,Male,Lucknow,Orthopedics,Planned,1,125,35,2026-06-14,7
+P1035,47,Male,Ghaziabad,Orthopedics,Emergency,1,131,125,2026-05-31,7
+P1231,51,Female,Delhi,Cardiology,Emergency,2,137,,2025-06-12,8
+P1168,63,Female,Mumbai,General Medicine,Emergency,1,128,26,2025-11-07,9
+P1152,49,Female,Lucknow,Cardiology,Emergency,0,138,107,2026-04-21,5
+P1029,33,Female,Delhi,General Medicine,Planned,1,110,43,2026-01-17,2
+P1176,56,Male,Mumbai,Cardiology,Planned,2,132,57,2026-09-20,8
+P1112,35,Other,Delhi,General Medicine,Planned,0,128,18,2025-10-16,2
+P1216,57,Male,Lucknow,Orthopedics,Referral,1,105,56,2025-03-25,7
+P1189,49,Female,LUCKNOW,Surgery,Referral,4,137,39,2026-05-08,8
+P1185,30,Female,Ghaziabad,Orthopedics,Planned,1,121,117,2025-10-30,5
+P1221,54,Female,Delhi,Orthopedics,Emergency,2,128,116,2025-03-31,9
+P1037,56,Female,Delhi,General Medicine,Referral,1,115,36,2025-08-01,4
+P1071,70,Female,Mumbai,General Medicine,Emergency,2,132,47,2026-06-13,9
+P1022,,Female,Mumbai,Surgery,Planned,2,146,31,2025-09-17,5
+P1237,59,Male,Mumbai,General Medicine,Emergency,3,118,16,2025-03-26,8
+P1228,21,Female,Lucknow,Surgery,Emergency,2,122,40,2026-08-01,4
+P1017,36,Male,Mumbai,General Medicine,Planned,0,129,53,2025-08-20,3
+P1238,59,Female,Ghaziabad,Cardiology,Planned,2,133,53,2025-02-06,10
+P1170,45,Male,Delhi,Cardiology,Emergency,2,132,54,2024-11-20,5
+P1031,61,Female,Delhi,Surgery,Emergency,2,96,34,2026-07-31,8
+P1013,42,Female,Ghaziabad,Orthopedics,Emergency,3,127,43,2025-02-15,6
+P1167,52,Male,Lucknow,Pediatrics,Emergency,3,,19,2026-07-30,7
+P1016,33,Female,Lucknow,Orthopedics,Emergency,2,131,48,2025-10-25,7
+P1159,39,Female,Ghaziabad,Cardiology,Emergency,2,123,106,2026-09-29,6
+P1180,52,Male,Delhi,Cardiology,Referral,3,148,101,2026-07-28,8
+P1087,54,Female,Mumbai,Cardiology,Emergency,2,113,113,2026-07-18,9
+P1096,65,Male,Delhi,Cardiology,Planned,2,114,79,2025-05-02,9
+P1004,36,Male,Ghaziabad,Orthopedics,Emergency,3,120,104,2026-03-14,10
+P1172,32,Male,Mumbai,General Medicine,Planned,2,134,119,2025-12-18,3
+P1114,49,Male,Mumbai,Surgery,Emergency,2,118,74,2025-08-08,7
+P1200,50,Female,Pune,Orthopedics,Referral,1,132,55,2026-10-09,6
+P1010,46,Female,Mumbai,Cardiology,Planned,2,147,99,2025-10-20,6
+P1223,49,Male,Ghaziabad,General Medicine,Planned,0,155,151,2025-09-25,5
+P1149,40,Male,Lucknow,General Medicine,,2,141,17,2025-10-24,2
+P1055,62,Male,Delhi,Pediatrics,Referral,1,101,95,2026-08-02,5
+P1171,,Male,Ghaziabad,Orthopedics,Emergency,3,138,118,2026-03-28,10
+P1235,50,Female,Ghaziabad,Pediatrics,Planned,2,102,35,2026-09-06,5
+P1068,78,Male,Pune,Cardiology,Emergency,2,136,56,2025-11-23,12
+P1241,22,Male,Lucknow,Pediatrics,Referral,0,133,131,2025-04-28,3
+P1024,31,Female,Pune,Cardiology,,2,149,37,2026-01-04,3
+P1110,26,Female,Pune,General Medicine,Emergency,1,120,34,2026-11-14,3
+P1210,1,Male,Delhi,Cardiology,Referral,0,99,74,2025-11-20,1
+P1051,53,Male,Delhi,Surgery,Planned,2,135,24,2025-08-05,3
+P1072,47,Male,Mumbai,Cardiology,Emergency,2,124,95,2025-01-18,8
+P1090,27,Male,Lucknow,General Medicine,Emergency,0,111,75,2026-07-03,4
+P1131,32,Male,Mumbai,General Medicine,Emergency,1,111,111,2025-08-20,3
+P1023,38,Male,Mumbai,Cardiology,Emergency,2,109,48,2026-07-07,5
+P1186,37,Male,Delhi,Surgery,Emergency,3,128,49,2026-11-02,8
+P1176,56,Male,Mumbai,Cardiology,Planned,2,132,57,2026-09-20,8
+P1031,61,Female,Delhi,Surgery,Emergency,2,96,34,2026-07-31,8
+P1043,6,Female,Mumbai,Orthopedics,Emergency,0,137,87,2025-01-28,1
+P1047,21,Male,Delhi,Pediatrics,Emergency,1,141,145,2026-05-14,1

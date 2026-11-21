@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,City,Department,Admission_Type,Num_Comorbidities,Systolic_BP,Waiting_Time_Mins,Admission_Date,Length_of_Stay_Days
+P1050,68.0,Male,Ghaziabad,Surgery,Planned,2,134.0,40.0,2025-05-09,7
+P1147,33.0,Male,Pune,Orthopedics,Planned,2,117.0,39.0,2025-01-24,6
+P1205,61.0,Female,Pune,Orthopedics,Planned,1,117.0,75.0,2025-10-17,8
+P1187,48.0,Female,Pune,Surgery,Planned,0,116.0,15.0,2026-06-13,2
+P1190,42.0,Male,Delhi,General Medicine,Referral,2,135.0,58.0,2026-11-08,6
+P1105,9.0,Male,Lucknow,General Medicine,Referral,0,122.0,79.0,2026-02-04,1
+P1012,68.0,Male,mumbai,Cardiology,Referral,0,139.0,77.0,2025-12-08,4
+P1246,35.0,Male,Pune,Orthopedics,Emergency,1,147.0,45.0,2026-03-16,8
+P1074,27.0,Female,Ghaziabad,Orthopedics,Planned,2,144.0,126.0,2026-01-07,3
+P1102,48.0,Male,Mumbai,Cardiology,Emergency,0,112.0,62.0,2024-12-30,2
+P1197,36.0,Female,Ghaziabad,General Medicine,Emergency,3,143.0,18.0,2025-07-12,7
+P1134,41.0,Male,Delhi,Cardiology,Emergency,0,140.0,67.0,2025-03-13,3
+P1218,-34.0,Male,Delhi,General Medicine,Emergency,1,128.0,19.0,2025-01-13,5
+P1178,73.0,Male,Pune,General Medicine,Emergency,4,123.0,52.0,2026-11-17,10
+P1070,47.0,Female,Delhi,Cardiology,Planned,4,135.0,82.0,2026-07-25,7
+P1201,37.0,Male,Delhi,Pediatrics,Planned,2,96.0,30.0,2025-12-30,7
+P1230,44.0,Male,Pune,Orthopedics,,2,114.0,67.0,2025-04-11,6
+P1044,8.0,Female,Mumbai,General Medicine,Emergency,1,139.0,78.0,2025-04-08,2
+P1124,43.0,Female,Delhi,Orthopedics,Emergency,1,123.0,184.0,2024-11-29,6
+P1083,30.0,Female,Pune,Orthopedics,Emergency,2,148.0,37.0,2025-04-25,5
